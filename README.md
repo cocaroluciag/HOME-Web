@@ -15,4 +15,6 @@
    ```bash
    git clone https://github.com/cocaroluciag/HOME-Web.git
 
+- VISTA PREVIA PAGINA WEB: https://drive.google.com/drive/folders/1F5XQHlMJNhdlBc-feBu6UaIMNxgdfPOT?usp=drive_link
+
 
