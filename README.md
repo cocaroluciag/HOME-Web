@@ -13,6 +13,6 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/cocaroluciag/HOME-Web
+   git clone https://github.com/cocaroluciag/HOME-Web.git
 
 
