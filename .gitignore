@@ -1,0 +1,8 @@
+# Ignorar carpetas de configuración y dependencias
+.vscode/
+
+# Ignorar archivos temporales o compilados
+*.log
+*.tmp
+*.cache
+*.env
